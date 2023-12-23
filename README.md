@@ -39,7 +39,7 @@ Welcome to the Resume Classification project repository! This project involves t
   - Access the application at [http://127.0.0.1:5000](http://127.0.0.1:5000).
   - Upload an image to get the classification result with the image displayed.
 
-  ![App Screenshot](./app/static/app_screenshot.png)
+  ![App Screenshot](App_demo.png)
 
 ## Notebooks
 
