@@ -49,6 +49,25 @@ Welcome to the Resume Classification project repository! This project involves t
 - **Model Training and Evaluation:**
   - Learn more about model selection, creation, training, and evaluation in the `Train_Evaluation_Test.ipynb` notebook.
 
+
+
+#  Dataset Collection
+## Data Sources
+Utilized Roboflow as the primary data collection source, collecting approximately 150 images for both resume and non-resume classes.
+
+##  Class Distribution
+- Resume Images: 150
+- Non-Resume Images: 150
+
+### Additional Details: for resume class i got data from roboflow opensource but for non-resume I collected various types of data mention above for you
+- Newspapers: 30
+- Bills and Personal Collection (Phone): 30
+- Open Source Research Papers: ~90
+
+## Dataset Diversity
+Ensured dataset diversity by incorporating images from various sources, including newspapers, bills, personal collections, and open-source research papers.
+
+
 ## Additional Information
 
 - **Overall Analysis:**
